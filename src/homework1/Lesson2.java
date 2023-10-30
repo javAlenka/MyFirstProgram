@@ -1,3 +1,5 @@
+package homework1;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -21,7 +23,7 @@ public class Lesson2 {
             System.out.println("Массив после замены: ");
             System.out.println(Arrays.toString(array));
 
-            // Подсчет среднего арифметического элементов массива
+            // Подсчет среднего арифметического элементов массива lesson4
             double sum = 0;
             for (int i = 0; i < array.length; i++) {
                 sum += array[i];
