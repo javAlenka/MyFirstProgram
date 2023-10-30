@@ -20,8 +20,16 @@ public class Lesson2 {
             array[l - 1] = n;
             System.out.println("Массив после замены: ");
             System.out.println(Arrays.toString(array));
+
+            // Подсчет среднего арифметического элементов массива
+            double sum = 0;
+            for (int i = 0; i < array.length; i++) {
+                sum += array[i];
+            }
+            double average = sum / array.length;
+            System.out.println("Среднее арифметическое элементов массива: " + average);
         } else {
-            System.out.println("длина массива не может быть отрицательной");
+            System.out.println("длина массива не может быть отрицательной и меньше двух элемнтов");
         }
     }
 }
