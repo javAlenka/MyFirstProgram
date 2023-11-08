@@ -19,6 +19,7 @@ public class Task1 {
             array[i] = scanner.nextInt();
         }
 
+
         // Выводим исходный массив
         System.out.println("Исходный массив:");
         printArray(array);
