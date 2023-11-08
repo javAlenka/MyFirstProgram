@@ -3,7 +3,7 @@ package homework1;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Lesson3 {
+public class Task3 {
 //1. Ввести с клавиатуры массив из 10 чисел.
 //2. Разбить его на 2 массива равной длинны.
 //3. Отсортировать каждую из половинок и вывести их содержимое на экран.

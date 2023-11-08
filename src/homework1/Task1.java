@@ -4,7 +4,7 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Lesson1 {
+public class Task1 {
 //1. Задать массив целых чисел длинной 10 элементов.
 //2. Отсортировать числа в массиве
 //3. Вывести на экран результат/

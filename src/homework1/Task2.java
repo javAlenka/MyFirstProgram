@@ -3,7 +3,7 @@ package homework1;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Lesson2 {
+public class Task2{
     //1. Задать массив целых чисел длинной N эл.
 //2. Поменять 1-й и последний элемент местами.
 //3. Вывести массив на экран.

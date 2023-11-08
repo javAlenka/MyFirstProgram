@@ -3,7 +3,7 @@ package homework1;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class Lesson5 {
+public class Task5 {
     // Написать код для зеркального переворота массива (1,2,3,4) -> (4,3,2,1).
         public static void main(String[] args) {
             int[] originalArray = {1, 2, 3, 4};
